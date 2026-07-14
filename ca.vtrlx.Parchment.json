@@ -49,7 +49,7 @@
 		"sources": [{
 			"type": "git",
 			"url": "https://codeberg.org/vtrlx/parchment",
-			"commit": "293db260c070d58ccc1117247f2c541c7ffb280b"
+			"commit": "ae45821e59ad2f1ec7e141af8e2c17ebbf771f29"
 		}]
 	}]
 }
