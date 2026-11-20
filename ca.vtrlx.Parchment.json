@@ -48,7 +48,7 @@
 		"make-install-args": ["PREFIX=/app"],
 		"sources": [{
 			"type": "git",
-			"url": "https://codeberg.org/vtrlx/parchment",
+			"url": "https://codeberg.org/vtrlx/parchmen",
 			"commit": "c1b5aaab229e8f9b50874bdd26275bded2c595fa"
 		}]
 	}]
